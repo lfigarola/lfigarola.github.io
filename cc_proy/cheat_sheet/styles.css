@@ -92,7 +92,10 @@ thead {
 td {
     border-top: 1px dashed hsl(76, 33%, 34%);
 }
-
+footer{
+    text-align: center;
+    color: hsl(164, 16%, 27%);
+}
 /* ----------------------------- */
 
 
